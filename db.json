@@ -1,0 +1,20 @@
+{
+    "events":[
+        {
+            "title":"Title 1",
+            "date":"some date",
+            "id":"1"
+        },
+        {
+            "title":"Title 2",
+            "date":"some date",
+            "id":"2"
+        },
+        {
+            "title":"Title 3",
+            "date":"some date",
+            "id":"3"
+        }
+    ]
+    
+}
